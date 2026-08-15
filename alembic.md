@@ -1,1 +1,1 @@
-Cấu hình alembic prod
+Cấu hình alembic dev
